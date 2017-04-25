@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Home location",
+    "address": "129 Av. du Moulin de Saquet",
+    "city": "94400, Vitry",
+    "phone": "07 83 36 46 18"
+  },
+  {
+    "id": 2,
+    "name": "School location",
+    "address": "129 Av. du Moulin de Saquet",
+    "city": "94800, Villejuif",
+    "phone": "07 83 36 46 18"
+  },
+  {
+    "id": 3,
+    "name": "Home location",
+    "address": "69 Av. du Moulin de Saquet",
+    "city": "94400, Vitry",
+    "phone": "07 83 36 46 18"
+  }
+]
