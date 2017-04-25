@@ -1,0 +1,23 @@
+{
+  "name": "firstwork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bootstrap.min.js",
+  "dependencies": {
+    "http-server": "^0.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Like-Jean/AnglarJs-Demo-Firstwork.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Like-Jean/AnglarJs-Demo-Firstwork/issues"
+  },
+  "homepage": "https://github.com/Like-Jean/AnglarJs-Demo-Firstwork#readme"
+}
